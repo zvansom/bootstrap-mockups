@@ -1,6 +1,6 @@
 # Bootstrap Mockup
 
-Bootstrap's pre-defined classes allow developers to quickly create prototypes of web pages. Let's try mocking an actual site using Bootstrap.
+Bootstrap's pre-defined classes allow developers to quickly create prototypes of web pages. These prototypes can then be customized with additional CSS. Let's try prototyping the layout for an actual site using Bootstrap.
 
 ## Getting Started
 
@@ -9,31 +9,29 @@ Bootstrap's pre-defined classes allow developers to quickly create prototypes of
   * `npm start` - start the BrowserSync server
   * `npm run lint:css` - lint CSS
   * `npm run lint:js` - lint JS
+* Include the CDN links for Bootstrap where appropriate
+* Start laying out the site!
 
-1. For each mockup, create a new HTML page and include Twitter Bootstrap in your head tag (use the snippet we created to make this process even faster!)
-2. Since you are not running your code on a server, make sure that you include http:// in all of your bootstrap links
-3. Be sure to check your networks tab to ensure that Bootstrap is included and working
-4. Now you're ready to start coding!
-5. Note that these examples are **mockups**. It's ok if your results are slightly off. Focus most of your time on the positioning of the elements.
-5. Use http://lorempixel.com if you need a placeholder for images
-6. When you are finished or even if you do not get done in time, make sure to push your code to github
+## Requirements
 
-## If you get stuck....
+* Recreate the following site: https://www.microsoft.com/en-us/
+* Use Bootstrap to recreate the layout of the page. Initially, it's ok if things aren't exactly the same. We'll be focusly mainly on layout and responsiveness.
+* For pictures, you can find the sources on Microsoft's website, or use image placeholder services. Our favorites:
+  * http://lorempixel.com
+  * https://placekitten.com/
+  * http://www.fillmurray.com/
 
-1. Review the notes from today's lecture
-2. Check out the [documentation](http://getbootstrap.com/) for Bootstrap
+## Deliverable
 
-##Mockups
-
-###Mockup 1
-![Mockup 1](./mockups/mock1.jpg)
-
-###Mockup 2
-![Mockup 2](./mockups/mock2.jpg)
-
-###Mockup 3
-![Mockup 3](./mockups/mock3.jpg)
+See the site link above (Microsoft)
 
 ## Bonus
 
 * Now that you've used Bootstrap, add an external stylesheet and make your site look as un-Bootstrappy as possible by overriding styles. While Bootstrap is a great framework for scaffolding ideas quickly, nobody likes a plain-ol-Bootstrap site
+  * Take advantage of the Chrome inspector to see what selectors you need to override
+
+## Additional Resources
+
+* Bootstrap documentation: http://getbootstrap.com
+* Font Awesome Icons (for more fonts than the provided Glyphicons): http://fontawesome.io/
+
