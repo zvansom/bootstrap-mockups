@@ -1,8 +1,14 @@
-# Mockups Lab
+# Bootstrap Mockup
 
-We'd like you to recreate some mockups using Twitter Bootstrap.
+Bootstrap's pre-defined classes allow developers to quickly create prototypes of web pages. Let's try mocking an actual site using Bootstrap.
 
 ## Getting Started
+
+* Fork and clone this repository
+* Run `npm install` to install dependencies
+  * `npm start` - start the BrowserSync server
+  * `npm run lint:css` - lint CSS
+  * `npm run lint:js` - lint JS
 
 1. For each mockup, create a new HTML page and include Twitter Bootstrap in your head tag (use the snippet we created to make this process even faster!)
 2. Since you are not running your code on a server, make sure that you include http:// in all of your bootstrap links
