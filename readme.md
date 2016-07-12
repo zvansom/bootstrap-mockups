@@ -35,3 +35,9 @@ See the site link above (Microsoft)
 * Bootstrap documentation: http://getbootstrap.com
 * Font Awesome Icons (for more fonts than the provided Glyphicons): http://fontawesome.io/
 
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
